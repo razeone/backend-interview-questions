@@ -8,33 +8,116 @@
 * Which search algorithms do you know?
 * Can you mention some of the benefits of using OOP?
 * Can you mention some othe programming paradigms that you know?
+* Do you know about the Big O Notation?
+* Which programming languages have you used and what's your favourite one?
+* Briefly describe your work environment for software development
+* What's the difference between a process and a thread? 
 
 ## Intermediate Questions (Design Patterns, Application Architecture and Databases)
 
-* Which databases do you know?
-* What's the difference between 
+### Databases
+
+* Which SQL databases do you know?
+* What's the difference between them?
+* Do you know the difference between WHERE and HAVING clauses in SQL?
+* How would you solve the problem of a slow query in a SQL database?
+* Explain the difference between SQL and NoSQL
+* How would you store a stream of semi structured logs?
+* Which NoSQL databases do you know?
+* Can you mention some big data technologies?
+
+### Design Patterns and Architectural stuff
+
 * Have you heard about Design Patterns?
 * Which design patterns do you know?
 * Do yo know what does an ORM is?
 * Have you heard about Pub/Sub pattern?
 * Have you heard about SOA?
+	* Tell me about MQ brokers
+	* Tell me about ESB integrations
 * Have you heard about REST?
+* Can you mention some characteristics of RESTful architecture?
+* Can you mention some HTTP verbs?
+* Can you mention some HTTP status codes?
+* Have you used some other protocol for IPC? (JMS, gRPC, AMQP, ZeroMQ)
+* Have you heard about the API gateway pattern?
+* Have you heard about SSO? Which protocols or technologies do you know to fulfill it?
+* How would you scale a monolithic web app?
 
 ## Advanced Questions(Networking, Cloud Computing and Security)
 
+### Networking
+
+* What's the difference between TCP and UDP protocols?
 * What are the 7 layers of the OSI model?
-* What are some advantages of CDNs? Disadvantages?
+* Can you mention some reserved network segments?
+* What are some advantages of CDNs? Or disadvantages?
 * What is a reverse proxy?
-* What ports do the following use?
+* Have you heard the concept of DMZ?
+* What ports do this protocols use?
 * HTTP
 * HTTPS
 * SSH
 * DNS
-* DHCP
+* FTP
+* Can you describe how does DHCP work?
+* Do you know about CORS?
+
+### Cloud Computing
+
+* Can you briefly describe IaaS, PaaS, SaaS and FaaS?
+* What's the difference between virtualization and containerization?
+* Have you heard about sharding in databases?
+* Can you describe HA?
+* Can you describe Elasticity?
+* What's network latency?
+* Have you heard about Object storage?
+* Have you heard about serverless architecture?
+* Have you heard about the 12 factor app?
+* Have you heard about auto scaling?
+* Do you know some cloud orchestration technology?
+
+### Security
+
+* Can you briefly describe a SQL injection attack?
+* What's a DoS?
+* What's a DDoS?
+* What's a firewall?
+* Can you describe phishing?
+* Can you describe Cross-Stie scripting?
 
 ## Soft Skills
 
+* How would you motivate a development team that has been working on the same project during a year?
+* How would you mention a fatal technical mistake in a meeting with the person that made it?
+* Which word describe you better?
+	* Politic
+	* Conciliator
+	* Leader
+	* Follower
 
+### For a leader
+
+* How would you choose or propose a new technology to your team?
+* How would you handle the situation of not achieving the results when a deathline was defined?
+* How woud you explain agile methodologies to an old fashioned team?
+* How would you promote the use of a DevOps culture?
+
+### Agile
+
+* Which agile techniques do you know?
+* Tell me what you know about:
+	* Scrum
+	* XP
+	* Kanban
+	* Pair Programming
+
+
+## Frontend
+
+## DevOps
+
+## Best practices
 
 ## Core Tech Questions
 
@@ -47,4 +130,4 @@
 * Google Cloud
 * OpenStack
 * OpenShift
-
+* MongoDB
