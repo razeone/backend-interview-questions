@@ -115,9 +115,50 @@
 
 ## Frontend
 
+### HTML
+
+* What is the doctype?
+* Do you know what `META` tags are?
+* What's the difference between <div> and <span> tags?
+* Have you used some HTML framework like Velocity, Jinja, Pug/Jade?
+
+### CSS
+
+* What does it mean a z-index?
+* Can you describe block model?
+* What do you know about SASS?
+* What do you know about LESS?
+* Have you used CSS3 effects?
+
+### Javascript
+
+* What's the difference between == and ===?
+* What's a promise?
+* What's a callback?
+* Which improvements do you know for implementing ES6 over ES5?
+* Which data types can you store in a JSON document?
+* How do you manage dependencies in JS?
+* Do you know the term transpiler?
+* How do you prepare a web app ready for production?
+* Which JS frameworks do you know?
+* Have you heard about JSONP?
+
 ## DevOps
 
+* How do you manage versioning in a software project?
+* Can you describe a tipical development workflow?
+* Do you know what does Continuous Integration mean?
+* Do you know what does Continuous Deployment mean?
+* What IaC tools do you know?
+* What tools do you know for monitoring?
+* What tools do you know for orchestration?
+* Mention some benefits from using IaC
+* Mention the difference between a VM and a container
+* Mention some tools for build automation
+
 ## Best practices
+
+* How would you securely store an environment variable?
 
 ## Core Tech Questions
 
